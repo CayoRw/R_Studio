@@ -1,6 +1,6 @@
 # R_Studio
 
-Olá. Bem-vindo ao repositório **R_Studio**! Aqui você encontrará o código e os dados necessários para realizar a atividade avaliativa de estatística.
+Olá. Aqui você encontrará o código e os dados necessários para realizar a atividade avaliativa de estatística.
 
 ## Arquivos incluídos
 - **Atividade_Avaliativa.R**: Arquivo de código principal a ser executado no RStudio.
